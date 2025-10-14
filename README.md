@@ -91,10 +91,11 @@ To find out, we need to take a closer look at how it actually works, and what it
 
 Even if you’ve known about Markdown for years, let’s quickly recap what it can actually do.
 With Markdown, you can write titles and subtitles, use bold or italic text, create bullet lists or to-do lists, add links and images, and even make tables, like this:
-\|  Column 1      |  Column 2      |
-\| -------------- | -------------- |
-\| Cell 1, Row 1  | Cell 2, Row 1  |
-\| Cell 1, Row 2  | Cell 2, Row 2  |
+
+\|  Column 1      |  Column 2      |</br>
+\| -------------- | -------------- |</br>
+\| Cell 1, Row 1  | Cell 2, Row 1  |</br>
+\| Cell 1, Row 2  | Cell 2, Row 2  |</br>
 
 But remember, it’s still plain text.
 
