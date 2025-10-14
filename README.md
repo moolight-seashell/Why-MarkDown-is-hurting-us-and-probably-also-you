@@ -535,5 +535,7 @@ And above all:
 
 If this resonates with you, please share, adapt, argue, improve...
 The goal is not to kill Markdown, but to make space for better tools and better thinking.
+
 And please, make this space more welcoming and friendly for you and for everyone else
+
 To be gentle, to be kind, This is the way (Rest now, little Wolf by Vylet pony)
