@@ -247,6 +247,7 @@ But no. All common languages only handle plain text, and that’s fine.
 When your main medium is plain text, it’s no surprise that developers wanted a way to explain and highlight certain parts of the code with comments.
 
 For example, by writing a line like this:
+
 \===================================================
 
 Wanting to standardize this isn’t necessarily a bad idea.
