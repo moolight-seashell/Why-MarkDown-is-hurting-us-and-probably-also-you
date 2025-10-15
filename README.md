@@ -419,6 +419,7 @@ So, if you want to create a documentation and note-taking app that is:
 - Lightweight for any device (not web-based),
 - Accessible with minimal knowledge,
 - Available to the widest range of people,
+
 then you should not use Markdown at all
 
 ## 11 - The MarkDown trend, apps, and the opportunity cost
@@ -473,6 +474,7 @@ they judge you, based on the tools you use.
 In extreme cases, people will even discredit statements based on the tools used:
 - “Look, they’re still using Word, the losers.”
 - “Lmao, he said my tools seemed complicated, ignorant!”
+
 In reality, this is a form of elitism and dogmatism, a subtle kind of discrimination that often goes unnoticed.
 
 ## 13 – When dogmatism discredits and marginalizes the dev Ecosystem
@@ -507,6 +509,7 @@ To build better things, we’ll need to define standards designed in a way that�
 - Democratic,
 - Open to experimentation.
 - Expandable
+
 The day we figure out how to do this, the the free software world, will be unstoppable.
 
 Until then:
