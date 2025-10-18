@@ -546,7 +546,7 @@ To be gentle, to be kind, This is the way (Rest now, little Wolf by Vylet pony)
 
 ## Appendix 1
 
-On android with sd card , syncthing can only write  to /Adroid/media or /Android/data [ref1](https://www.reddit.com/r/Syncthing/comments/1dm749t/problem_with_syncing_to_sdcard_of_android_dap/)
+On android with sd card , syncthing can only write  to /Adroid/media or /Android/data [ref](https://github.com/Catfriend1/syncthing-android/blob/main/wiki/known-bug-workarounds/All-files-access_SD-card-write-access.md)
 
 and talking about user-friendliness.
 
