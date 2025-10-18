@@ -344,7 +344,7 @@ Let’s get straight to the point: in Obsidian, official synchronization require
 So if you take this seriously, it’s not free, and it’s indeed a form of lock-in to a proprietary system.
 
 Of course, these are just files, so could we use an external tool instead?
-Short answer: no, you can’t.
+Short answer: not really.
 
 On Android, Obsidian still **does not** support cloud apps such as Google Drive.
 
@@ -352,7 +352,7 @@ Of course, they have no interest in developing it, especially because managing n
 [obsidian SAF](https://forum.obsidian.md/t/android-integration-on-content-provider-api/90278)
 
 As for other external synchronization tools, like Syncthing,
-the combination of Android’s disk access restrictions means that Syncthing and Obsidian cannot read and write to the same folders.
+the combination of Android’s disk access restrictions means that Syncthing and Obsidian cannot read and write to the same folders at least using a sd card (Appendix 1)[## Appendix 1].
 
 Yes, it might be technically feasible by adding an extra layer, but at this stage, is it worth it? Probably not.
 
@@ -542,3 +542,21 @@ The goal is not to kill Markdown, but to make space for better tools and better 
 And please, make this space more welcoming and friendly for you and for everyone else
 
 To be gentle, to be kind, This is the way (Rest now, little Wolf by Vylet pony)
+
+
+## Appendix 1
+
+On android with sd card , syncthing can only write  to /Adroid/media or /Android/data (ref1)[https://www.reddit.com/r/Syncthing/comments/1dm749t/problem_with_syncing_to_sdcard_of_android_dap/]
+
+and talking about user-friendliness.
+
+on pc The only native interface is syncthin gtk, which is no longer maintained and often lacks information from the web interface.
+So if we don't recommend st gtk, does that mean launching it via the command line?
+
+As for the phone, are there two interfaces, the web and the native? Plus managing settings like ignoring permissions and other things. 
+It's definitely not for the average user.
+
+(Not to mention the inotify handle limit for very large directories, which requires root access on android)
+I like Syncthing and use it 24/7, but that's not a reason.
+
+
