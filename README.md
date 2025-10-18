@@ -556,7 +556,7 @@ So if we don't recommend st gtk, does that mean launching it via the command lin
 As for the phone, are there two interfaces, the web and the native? Plus managing settings like ignoring permissions and other things. 
 It's definitely not for the average user.
 
-(Not to mention the inotify handle limit for very large directories, which requires root access on android)
+(Not to mention the inotify handle limit for very large directories, which requires root access on android) [ref](https://docs.syncthing.net/users/faq.html#how-do-i-increase-the-inotify-limit-to-get-my-filesystem-watcher-to-work)
 I like Syncthing and use it 24/7, but that's not a reason.
 
 
