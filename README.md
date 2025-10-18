@@ -352,7 +352,7 @@ Of course, they have no interest in developing it, especially because managing n
 [obsidian SAF](https://forum.obsidian.md/t/android-integration-on-content-provider-api/90278)
 
 As for other external synchronization tools, like Syncthing,
-the combination of Android’s disk access restrictions means that Syncthing and Obsidian cannot read and write to the same folders at least using a sd card (Appendix 1)[## Appendix 1].
+the combination of Android’s disk access restrictions means that Syncthing and Obsidian cannot read and write to the same folders at least using a sd card [Appendix 1](## Appendix 1).
 
 Yes, it might be technically feasible by adding an extra layer, but at this stage, is it worth it? Probably not.
 
@@ -546,7 +546,7 @@ To be gentle, to be kind, This is the way (Rest now, little Wolf by Vylet pony)
 
 ## Appendix 1
 
-On android with sd card , syncthing can only write  to /Adroid/media or /Android/data (ref1)[https://www.reddit.com/r/Syncthing/comments/1dm749t/problem_with_syncing_to_sdcard_of_android_dap/]
+On android with sd card , syncthing can only write  to /Adroid/media or /Android/data [ref1](https://www.reddit.com/r/Syncthing/comments/1dm749t/problem_with_syncing_to_sdcard_of_android_dap/
 
 and talking about user-friendliness.
 
