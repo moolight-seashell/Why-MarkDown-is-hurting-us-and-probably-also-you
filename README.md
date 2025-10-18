@@ -494,9 +494,9 @@ Beyond MarkDown, a huge problem is the lack of a flexible and open standard.
 Despite their success, open‑source “standards” are rarely decided collectively.
 In practice, they’re imposed by individuals or by the inertia of popular platforms.
 
-Unfortunately, Markdown is now everywhere, it’s hard‑coded into GitLab, GitHub, and countless other tools.
+Unfortunately, Markdown is now everywhere, it’s hard‑coded into GitLab, GitHub, and countless other tools. 
 
-If we wanted to experiment with richer formats, using iframes, embedded scripts, or new syntaxes, these are blocked by “XSS security” rules.
+If we wanted to experiment with richer formats, using iframes, embedded scripts, or new syntaxes, these are blocked by “XSS security” rules. [ref](https://docs.gitlab.com/development/fe_guide/security/)
 
 That’s a huge obstacle for experimentation and tool development.
 And in environments where every line of code is reviewed, this security argument feels very weak.
