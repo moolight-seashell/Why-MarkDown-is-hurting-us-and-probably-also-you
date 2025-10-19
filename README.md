@@ -215,7 +215,7 @@ But yes, even though Markdown completely dominates today, it’s not alone.
 
 There are, in fact, a few alternative formats that aim for roughly the same goals.
 
-You might not even have heard of them, so let me introduce you to AsciiDoc, reStructuredText, and Textile.
+You might not even have heard of them, so let me introduce you to AsciiDoc, reStructuredText, Markdeep, and Textile.
 
 However, as you might expect, all of these syntaxes oscillate between two extremes:
 on one side, data-like formats such as HTML, and on the other, ASCII-art-like syntaxes inspired by Markdown.
