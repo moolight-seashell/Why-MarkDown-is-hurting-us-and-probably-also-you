@@ -308,6 +308,9 @@ Obsidian has a special feature called callouts that lets you highlight or mark t
 
 It’s a nice feature, but it is not part of the official Markdown standard.
 
+But this isn't specific to Markdown; we have similar issues with Mermaid, for example.
+![mermaid version](res/mermaid_version.png)
+
 So much for “future-proof,” especially when you consider that Obsidian itself is not open source.
 
 And things get even worse when you start looking at Obsidian’s extensions.
