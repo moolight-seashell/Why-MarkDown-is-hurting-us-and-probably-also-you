@@ -291,8 +291,6 @@ Now, let’s turn our attention to note-taking systems based on Markdown, such a
 Among the reasons often cited in favor of Obsidian, some are indeed very good.
 However, many of the most commonly mentioned reasons… are simply not convincing.
 
-(you dont us a not MD note apps ? You can skip to the chapter 12)
-
 ### 10.1 - A universal format, future-proof, and without proprietary lock-in !?
 #### 10.1.1 - Markdown is never standard
 
@@ -454,6 +452,13 @@ Do you really think the **average** user can, or will, use a Markdown-based note
 
 The answer is simple: no, they won’t.
 
+We could continue to dig even deeper into this topic, like for example,
+the fact that parsing Markdown has become extremely complex
+but at this stage we will jump to the conclusion.
+[https://www.youtube.com/watch?v=DWcqbPm_Rn4](https://www.youtube.com/watch?v=DWcqbPm_Rn4)
+[https://bgslabs.org/blog/why-are-we-using-markdown/](https://bgslabs.org/blog/why-are-we-using-markdown/)
+
+
 ## 12 - The dark side of the developer
 
 You’ve made it this far, well done! Sincerely, it’s a great sign that you want to face issues head-on and improve.
@@ -493,6 +498,7 @@ Not only is this answer inappropriate for most users, but it also contributes to
 
 Before wrapping up this discussion, it’s essential to talk about solutions.
 Beyond MarkDown, a huge problem is the lack of a flexible and open standard.
+because, yes, today there isn't a single format that's even remotely acceptable.
 
 Despite their success, open‑source “standards” are rarely decided collectively.
 In practice, they’re imposed by individuals or by the inertia of popular platforms.
