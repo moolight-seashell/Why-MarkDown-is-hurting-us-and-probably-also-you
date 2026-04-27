@@ -489,6 +489,7 @@ In reality, this is a form of elitism and dogmatism, a subtle kind of discrimina
 
 ## 13 – When dogmatism discredits and marginalizes the dev Ecosystem
 One problem with this dogmatism is that the community tends to close in on itself.
+
 When an average user asks a friend who is highly knowledgeable about computers for advice on note-taking, the answer is often simply: “Markdown.”
 Not only is this answer inappropriate for most users, but it also contributes to further marginalizing developers, and, by extension, the broader open source universe.
 
@@ -500,7 +501,6 @@ Not only is this answer inappropriate for most users, but it also contributes to
 
 Before wrapping up this discussion, it’s essential to talk about solutions.
 Beyond MarkDown, a huge problem is the lack of a flexible and open standard.
-because, yes, today there isn't a single format that's even remotely acceptable.
 
 Despite their success, open‑source “standards” are rarely decided collectively.
 In practice, they’re imposed by individuals or by the inertia of popular platforms.
