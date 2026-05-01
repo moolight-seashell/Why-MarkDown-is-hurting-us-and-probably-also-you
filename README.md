@@ -80,6 +80,10 @@ As Wintergatan would probably say: that’s a dumb requirement.
 Just from that specification alone, you can already predict the result:
 a highly limited and frustrating format, and that’s exactly what we ended up with.
 
+**The hybid machine / human data code smell**
+And the worst part is that this isn't even specific to Markdown, you can see this code smell pattern everywhere.
+For example, in Bash, and when you force machine-structured data (as Nushell does), you end up with a system that's infinitely easier to use.
+
 ## 4 - Markdown as a tool
 
 Okay, despite all its limitations, Markdown is already everywhere.
