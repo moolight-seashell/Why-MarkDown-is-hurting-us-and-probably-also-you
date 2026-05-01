@@ -55,6 +55,7 @@ At first glance, that may sound perfectly reasonable.
 But in reality, this single sentence reveals the two fundamental flaws of Markdown.
 
 **First**
+
 let’s look closely at that goal: “easy to read and to write in plain text.”
 This describes a feature, not a purpose.
 
@@ -62,6 +63,7 @@ It tells us what Markdown can do, but not why it should exist.
 When you never ask what users actually need, you end up building something that merely does things, instead of something made to solves problems.
 
 **Second**
+
 When we talk about being “easy to read and write in plain text,”
 what we’re really saying is that the raw text and the rendered output should look somewhat similar.
 If the rendered document looks like a table, then the plain text should also look like a table, built from handwritten ASCII characters.
@@ -81,6 +83,7 @@ Just from that specification alone, you can already predict the result:
 a highly limited and frustrating format, and that’s exactly what we ended up with.
 
 **The hybid machine / human data code smell**
+
 And the worst part is that this isn't even specific to Markdown, you can see this code smell pattern everywhere.
 For example, in Bash, and when you force machine-structured data (as Nushell does), you end up with a system that's infinitely easier to use.
 
