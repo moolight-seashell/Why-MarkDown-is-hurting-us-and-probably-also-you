@@ -186,7 +186,7 @@ So why not just use a proper graphical editor, like draw.io, Inkscape, or even P
 
 Unsurprisingly, most people who use Mermaid regularly don’t actually write it by hand.
 
-They use web-based tools like Mermaid Live  ( https://mermaid.live/ )which provide, you guessed it, a WYSIWYG interface.
+They use web-based tools like Mermaid Live  ( https://mermaid.live/ ) which provide, you guessed it, a gui / interface.
 
 So once again, we’re back to the same irony:
 we start by rejecting graphical interfaces to “stay in plain text,” 
