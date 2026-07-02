@@ -435,7 +435,10 @@ then you should not use Markdown at all
 If you’re even slightly curious about note-taking apps,
 you’ve probably noticed the insane amount of Markdown-based apps that have been created:
 
-Obsidian, Joplin, Logseq, Standard Notes, Zettlr, SimpleMarkdown, Tangent Note, Noteless, LogSeq, Dendron, SiYuan, Foam, Cuby Text, QOwnNotes, SilverBullet, Noteup, Otterwiki, Reor, Rucola, and probably many others I’m not aware of.
+Obsidian, Joplin, Logseq, Standard Notes, Zettlr, SimpleMarkdown, Tangent Note, Noteless, LogSeq, Dendron, SiYuan, Foam, Cuby Text, QOwnNotes, SilverBullet, Noteup, Otterwiki,
+Reor, Rucola, Blank, Deeptags, Dtask, Ficus, Hascard, Helixnotes, Hexoeditor, Inkdown, Jottem, MarkMind, MarkFlowy, MarkMan, MarkText, Notable, Notekit, Oh Mymd
+Panwriter, Podium, Revealgo, StydyMd, Ubiquity, Vnote, Xilinota, Yank Note,  Znote
+and probably others I’m not aware of.
 
 How can we explain such relentlessness, such an enormous amount of work put into developing yet another Markdown app that will supposedly do things “the right way”?
 Has anyone ever asked whether Markdown itself is really a good base?
